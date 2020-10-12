@@ -1,0 +1,10 @@
+"C:\Program Files (x86)\IntelSWTools\openvino\deployment_tools\tools\model_downloader\intel\face-detection-0100\FP16\face-detection-0100.xml"
+-model
+
+"C:\Users\tigra\Documents\trash_img\s2.mp4"
+-input video
+
+
+
+"C:\Program Files (x86)\IntelSWTools\openvino_2020.4.287\deployment_tools\open_model_zoo\tools\downloader\intel\person-detection-retail-0013\FP16\person-detection-retail-0013.xml"
+-model
